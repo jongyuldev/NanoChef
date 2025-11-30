@@ -1,0 +1,5 @@
+{
+  "name": "Copy of NanoChef & Studio",
+  "description": "A dual-purpose AI application: Upload ingredient photos for instant meal recommendations and recipes, or use text prompts to creatively edit your images using the Gemini 2.5 Flash Image model.",
+  "requestFramePermissions": []
+}
